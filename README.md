@@ -92,31 +92,31 @@ run.bat
 
 ## 📸 Screenshots
 
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 
 
-![alt text](image-1.png)
+![alt text](Screenshots/image-1.png)
 
 
 
-![alt text](image-2.png)
+![alt text](Screenshots/image-2.png)
 
 
 
-![alt text](image-3.png)
+![alt text](Screenshots/image-3.png)
 
 
 
-![alt text](image-4.png)
+![alt text](Screenshots/image-4.png)
 
 
 
-![alt text](image-5.png)
+![alt text](Screenshots/image-5.png)
 
 
 
-![alt text](image-6.png)
+![alt text](Screenshots/image-6.png)
 
 
 
@@ -136,4 +136,3 @@ Central Michigan University
 
 - This project was developed for educational purposes. Feel free to fork and customize for learning, research, and academic demonstrations.
 
-    
