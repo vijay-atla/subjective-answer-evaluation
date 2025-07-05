@@ -128,9 +128,7 @@ run.bat
 
 - Vijay Atla
 
-Graduate Student, MSIS
-
-Central Michigan University
+- Year Developed: 2021
 
 ## 📝 License
 
