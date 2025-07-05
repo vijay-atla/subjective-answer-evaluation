@@ -1,0 +1,15 @@
+#install the following pip modules
+
+numpy==1.19.2
+pandas==0.25.3
+matplotlib==3.1.1
+scikit-learn==0.22.2.post1
+keras==2.3.1
+tensorflow==2.2.0
+tkintertable
+flask
+nltk==3.4.5
+google cloud vision
+
+#To run the code, first create a Service Account Token of vision API Engine and assign 
+#the path in vision file.

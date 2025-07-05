@@ -1,0 +1,9 @@
+In a multiprogramming environment, process requests resources; if the resources are not available at that time,
+the process enters a waiting state. Sometimes, a waiting process is never again able to change state, because the
+resources it has requested by other waiting processes. This situation is called a deadlock.
+ A system consists of a finite number of resources to be distributed among a number of competing
+processes. The resources are partitioned into several types of instances.
+ If a process requests an instance of a resource type, the allocation of any instance of the type will satisfy
+the request.
+ If it will not, then the instances are not identical, and the resource type classes have not been defined
+properly.

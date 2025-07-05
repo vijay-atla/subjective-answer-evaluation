@@ -1,0 +1,8 @@
+A power inverter, or inverter , is a power electronic device or circuitary
+that changes direct current (DC) to alternating current(AC). the resulting
+AC frequently obtained depends on the particular device employed.
+Inverters do the opposite of "converters" which were originally large 
+electromechanical devices converting AC to DC.
+The input voltage, output voltage and frequency, and overall power handling 
+depend on the design of the specific device or circuitary. the inverter does not
+ produce any power, the power is provided by the DC source.

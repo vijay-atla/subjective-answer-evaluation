@@ -1,0 +1,2 @@
+python Subjective.py
+pause
